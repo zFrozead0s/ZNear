@@ -19,7 +19,7 @@ A sleek and efficient PocketMine-MP plugin to check nearby players with cooldown
 ---
 
 ## 📥 Installation
-1. Download the latest `ZNear.phar` from [Releases](https://github.com/zFrozead0s/ZNear/releases).
+1. Download the latest `ZNear.phar` or `ZNear.zip` from [Releases](https://github.com/zFrozead0s/ZNear/releases).
 2. Place the `.phar` file into your server's `plugins` folder.
 3. Restart the server.
 
