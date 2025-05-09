@@ -1,7 +1,8 @@
 # 🌟 ZNear Plugin
 
 A sleek and efficient PocketMine-MP plugin to check nearby players with cooldown and customizable radius.  
-**Created by [zFrozead0s](https://github.com/zFrozead0s)**  
+
+**Created by zFrozead0s(https://github.com/zFrozead0s)**  
 
 ![PocketMine-MP](https://img.shields.io/badge/PocketMine%20MP-5.x-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
@@ -24,7 +25,7 @@ A sleek and efficient PocketMine-MP plugin to check nearby players with cooldown
 
 ---
 
-## ⚙️ Configuration (`plugins/ZNear/config.yml`)
+## ⚙️ Configuration (`plugins_data/ZNear/resources/config.yml`)
 ```yaml
 cooldown: 30
 radius: 80
