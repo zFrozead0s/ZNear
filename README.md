@@ -2,7 +2,7 @@
 
 A sleek and efficient PocketMine-MP plugin to check nearby players with cooldown and customizable radius.  
 
-**Created by zFrozead0s(https://github.com/zFrozead0s)**  
+**Created by [zFrozead0s](https://github.com/zFrozead0s)**  
 
 ![PocketMine-MP](https://img.shields.io/badge/PocketMine%20MP-5.x-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
@@ -11,7 +11,7 @@ A sleek and efficient PocketMine-MP plugin to check nearby players with cooldown
 
 ## ✨ Features
 - 🕒 **30-second cooldown** to prevent command spam.
-- 📏 **Configurable radius** (default: `80` blocks).
+- 📏 **Configurable radius** (default: `15` blocks).
 - 🌍 **Multi-world support** (checks players in the same world).
 - 🛠️ **Fully customizable messages** in `config.yml`.
 - ✅ **Permission system** (`znear.command`).
