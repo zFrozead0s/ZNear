@@ -28,7 +28,7 @@ A sleek and efficient PocketMine-MP plugin to check nearby players with cooldown
 ## ⚙️ Configuration (`plugins_data/ZNear/resources/config.yml`)
 ```yaml
 cooldown: 30
-radius: 80
+radius: 15
 
 cooldown_message: "§cYou must wait §e{time} seconds §cto use /near."
 no_players: "§cNo players nearby (§e{radius}m§c)."
