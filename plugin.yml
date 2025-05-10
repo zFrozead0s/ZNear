@@ -1,0 +1,12 @@
+name: ZNear
+version: 1.0.0
+main: ZNear\Main
+api: 5.0.0
+commands:
+  near:
+    description: "Displays the number of players"
+    usage: "/near"
+permissions:
+  znear.command:
+    description: "Permission to use /near"
+    default: true
