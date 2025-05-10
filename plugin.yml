@@ -6,6 +6,7 @@ commands:
   near:
     description: "Displays the number of players"
     usage: "/near"
+    permission: "znear.command"
 permissions:
   znear.command:
     description: "Permission to use /near"
