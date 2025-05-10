@@ -1,0 +1,6 @@
+cooldown: 30
+radius: 15
+
+cooldown_message: "§cYou must wait §e{time} seconds §cto use /near."
+no_players: "§cNo players nearby (§e{radius}m§c)."
+players_near: "§aPlayers nearby: §e{count} §7(radius: §e{radius}m§7)"
